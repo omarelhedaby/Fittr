@@ -20,10 +20,11 @@ Fittr is a fitness application that tracks your activity whether it is walking, 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://user-images.githubusercontent.com/47994224/162997614-ea7d7f5d-a99a-483f-93ee-72b77e6dd06e.PNG" width="300">
+<img src="https://user-images.githubusercontent.com/47994224/162997639-d57fb863-3756-4d8f-a10c-a1954420901b.PNG" width="300">
+
 </p>
 <p> 
-<img src="https://user-images.githubusercontent.com/47994224/162997639-d57fb863-3756-4d8f-a10c-a1954420901b.PNG" width="300">
+<img src="https://user-images.githubusercontent.com/47994224/162997614-ea7d7f5d-a99a-483f-93ee-72b77e6dd06e.PNG" width="300">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;

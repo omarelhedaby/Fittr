@@ -12,7 +12,7 @@ Fittr is a fitness application that tracks your activity whether it is walking, 
 </p>
 
 ### Activity Page
-###### The available activities are Walking, Cycling and Biking. The google activity api is used to determine whether the user is actually performing these activities or not by returning a confidence, if the confidence is above 50% then the activity is on going and the gps is used to determine locations over time of the user to count kilometers. if the confidence is below the threshold the activity is paused. When an activity is stopped an Activity report is shown.
+##### The available activities are Walking, Cycling and Biking. The google activity api is used to determine whether the user is actually performing these activities or not by returning a confidence, if the confidence is above 50% then the activity is on going and the gps is used to determine locations over time of the user to count kilometers. if the confidence is below the threshold the activity is paused. When an activity is stopped an Activity report is shown.
 
 
 <p> 
@@ -32,7 +32,7 @@ Fittr is a fitness application that tracks your activity whether it is walking, 
 
 
 ### Vouchers Page
-###### Here is the page where users can use their earned coins from the app to buy vouchers.
+##### Here is the page where users can use their earned coins from the app to buy vouchers.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -40,7 +40,7 @@ Fittr is a fitness application that tracks your activity whether it is walking, 
 <img src="https://user-images.githubusercontent.com/47994224/162996722-cde4c4ed-e0dc-4b76-b364-1e6bfca18bbb.jpeg" width="300">
 
 ### Leaderboard Page
-###### In this page there is a drop down list where the user can choose an activity to see it's respective leaderboard.
+##### In this page there is a drop down list where the user can choose an activity to see it's respective leaderboard.
 <p> 
 <img src="https://user-images.githubusercontent.com/47994224/162999006-ccb87fbf-9b35-41f8-b873-9cfe8fc4fa76.PNG" width="300">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;

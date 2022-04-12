@@ -41,7 +41,7 @@ Fittr is a fitness application that tracks your activity whether it is walking, 
 <img src="https://user-images.githubusercontent.com/47994224/162996722-cde4c4ed-e0dc-4b76-b364-1e6bfca18bbb.jpeg" width="300">
 
 ### Profile Page
-##### In the profile page the user can see their level, sum of coins and sum of kms, the user can also see past trips information and bought vouchers info
+##### In the profile page the user can see their level, sum of coins and sum of kms, the user can also see past trips information and bought vouchers info and change their profile picture
 <p> 
 <img src="https://user-images.githubusercontent.com/47994224/163006719-ecdc62ce-40ed-4beb-b6e0-19f02b1feedd.jpeg" width="300">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;

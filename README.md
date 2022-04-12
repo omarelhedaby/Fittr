@@ -3,7 +3,7 @@ Fittr is a fitness application that tracks your activity whether it is walking, 
 
 
 ### Authentication
-![Login Page](https://user-images.githubusercontent.com/47994224/162997460-d2be1454-99c2-41ef-9c6b-548bb39a4309.PNG)
+![Login Page](https://user-images.githubusercontent.com/47994224/162997460-d2be1454-99c2-41ef-9c6b-548bb39a4309.PNG|width=100px)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
